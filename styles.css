@@ -1,0 +1,10 @@
+.btn {
+    display: grid;
+    margin: auto;
+    width: 200px;
+    height: 70px;
+    color: crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
